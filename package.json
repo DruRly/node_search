@@ -2,8 +2,11 @@
   "name": "node_search",
   "version": "0.0.0",
   "description": "Search for files",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "mocha": "~1.17.1",
+    "chai": "~1.9.0"
+  }
 }
